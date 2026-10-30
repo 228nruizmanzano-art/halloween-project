@@ -36,6 +36,8 @@ We laughed, ate our favorite treats, and told scary stories until it was time to
 It was definitely the strangest Halloween night ever, but it was also one of the best! 
 I can't wait to see what happens next Halloween!`;
 
+<img src="/ai-generated-9099293_640.jpg" alt="Halloween Image">
+
 let madLibOutputDiv = document.getElementById("madLibOutput");
 
 madLibOutputDiv.innerHTML = `<p>${story}</p>`;
